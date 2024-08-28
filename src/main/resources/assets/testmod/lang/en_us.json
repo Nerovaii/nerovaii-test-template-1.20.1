@@ -1,0 +1,8 @@
+{
+  "item.testmod.joint" : "Joint",
+  "item.testmod.high_mushrooms" : "High Mushroom",
+  "item.testmod.weed" : "Good weed",
+  "item.testmod.northern_krippy" : "Northern Krippy",
+
+  "itemgroup.weed": "Weed Group"
+}
